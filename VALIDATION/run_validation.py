@@ -59,7 +59,7 @@ REQUIRED_FILES = [
 def check_empty_folders(errors: list) -> int:
     count = 0
     for d in sorted(ROOT.rglob("*")):
-        if d.is_dir() and "__pycache__" not in d.parts:
+        if d.is_dir() and "__pycache__" not in d.parts and ".git" not in d.parts:
             count += 1
             if not any(d.iterdir()):
                 errors.append(f"EMPTY_FOLDER: {d.relative_to(ROOT)}")
@@ -171,7 +171,7 @@ def check_ownership_policy(errors: list) -> None:
 
 
 def check_python_syntax_and_tests(errors: list) -> dict:
-    py_files = [p for p in sorted(ROOT.rglob("*.py")) if "__pycache__" not in p.parts]
+    py_files = [p for p in sorted(ROOT.rglob("*.py")) if "__pycache__" not in p.parts and ".git" not in p.parts]
     for pf in py_files:
         try:
             py_compile.compile(str(pf), doraise=True)
@@ -205,7 +205,7 @@ def run_all() -> dict:
     check_ownership_policy(errors)
     py_stats = check_python_syntax_and_tests(errors)
 
-    total_files = sum(1 for p in ROOT.rglob("*") if p.is_file() and "__pycache__" not in p.parts)
+    total_files = sum(1 for p in ROOT.rglob("*") if p.is_file() and "__pycache__" not in p.parts and ".git" not in p.parts)
     report = {
         "status": "PASSED" if not errors else "FAILED",
         "total_folders": folder_count,
