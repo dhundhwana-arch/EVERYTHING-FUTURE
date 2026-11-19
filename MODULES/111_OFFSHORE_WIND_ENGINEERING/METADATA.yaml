@@ -1,0 +1,11 @@
+module_id: "111"
+name: "Offshore and Floating Wind Engineering"
+slug: "OFFSHORE_WIND_ENGINEERING"
+cluster: "C06"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

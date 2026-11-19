@@ -1,6 +1,6 @@
 # Module 005: Deep Learning
 
-**Cluster:** C01 | **Tier:** 2 | **Status:** `PARTIALLY_VERIFIED` | **Last Verified:** 2026-11-19  
+**Cluster:** C01 | **Tier:** 1 | **Status:** `VERIFIED` | **Last Verified:** 2026-11-19  
 **Original Creator & Project Owner:** DIVYESH BAMBHANIYA
 
 ## Overview

@@ -1,0 +1,11 @@
+module_id: "107"
+name: "HTS Magnets for Compact Fusion"
+slug: "HIGH_TEMP_SUPERCONDUCTING_MAGNETS"
+cluster: "C06"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

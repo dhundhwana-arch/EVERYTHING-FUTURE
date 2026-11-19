@@ -1,6 +1,6 @@
 # Module 042: Industrial Automation
 
-**Cluster:** C02 | **Tier:** 2 | **Status:** `PARTIALLY_VERIFIED` | **Last Verified:** 2026-11-19  
+**Cluster:** C02 | **Tier:** 1 | **Status:** `VERIFIED` | **Last Verified:** 2026-11-19  
 **Original Creator & Project Owner:** DIVYESH BAMBHANIYA
 
 ## Overview

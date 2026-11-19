@@ -1,0 +1,11 @@
+module_id: "129"
+name: "Agrivoltaics (Solar + Crop Co-Location)"
+slug: "AGRIVOLTAICS_SYSTEMS"
+cluster: "C08"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

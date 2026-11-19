@@ -2,10 +2,10 @@ module_id: "046"
 name: "Telecommunications"
 slug: "TELECOMMUNICATIONS"
 cluster: "C11"
-tier: 2
-verification_status: "PARTIALLY_VERIFIED"
+tier: 1
+verification_status: "VERIFIED"
 last_verified: "2026-11-19"
-has_executable_code: false
+has_executable_code: true
 offline_usable: true
 owner: "DIVYESH BAMBHANIYA"
 license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

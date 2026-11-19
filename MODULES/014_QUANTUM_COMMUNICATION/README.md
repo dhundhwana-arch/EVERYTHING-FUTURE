@@ -1,6 +1,6 @@
 # Module 014: Quantum Communication
 
-**Cluster:** C04 | **Tier:** 2 | **Status:** `PARTIALLY_VERIFIED` | **Last Verified:** 2026-11-19  
+**Cluster:** C04 | **Tier:** 1 | **Status:** `VERIFIED` | **Last Verified:** 2026-11-19  
 **Original Creator & Project Owner:** DIVYESH BAMBHANIYA
 
 ## Overview

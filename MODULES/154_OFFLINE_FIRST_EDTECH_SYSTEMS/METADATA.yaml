@@ -1,0 +1,11 @@
+module_id: "154"
+name: "Offline-First Multilingual EdTech"
+slug: "OFFLINE_FIRST_EDTECH_SYSTEMS"
+cluster: "C13"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

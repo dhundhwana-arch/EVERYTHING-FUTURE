@@ -1,0 +1,11 @@
+module_id: "144"
+name: "Zero-Trust OT/ICS Industrial Security"
+slug: "ZERO_TRUST_OT_ICS_SECURITY"
+cluster: "C11"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

@@ -1,0 +1,11 @@
+module_id: "074"
+name: "Federated and Private Machine Learning"
+slug: "FEDERATED_AND_PRIVATE_ML"
+cluster: "C01"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

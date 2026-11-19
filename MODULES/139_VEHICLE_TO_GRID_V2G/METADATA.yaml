@@ -1,0 +1,11 @@
+module_id: "139"
+name: "Vehicle-to-Grid (V2G) Bidirectional Storage"
+slug: "VEHICLE_TO_GRID_V2G"
+cluster: "C10"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

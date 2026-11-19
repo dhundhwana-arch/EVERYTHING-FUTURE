@@ -1,0 +1,11 @@
+module_id: "085"
+name: "Surgical and Medical Robotics"
+slug: "SURGICAL_AND_MEDICAL_ROBOTICS"
+cluster: "C02"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

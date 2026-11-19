@@ -1,12 +1,10 @@
 # Changelog
 
-All notable changes to **EVERYTHING FUTURE** are documented in this file.
+## [2.0.0] — 2026-11-19 (Missions 2, 3 & 4 Complete Release)
+- **Mission 2 Complete:** Upgraded 18 Core Modules to Tier-1 Flagship Deep Modules (**34 total Flagship Deep Modules** with mathematical foundations, safety protocols, zero-dependency Python simulations, and **35 passing unit test suites**).
+- **Missions 3 & 4 Complete:** Built all **90 Specialized Subdomains (`071`–`160`)** under `MODULES/` — achieving **160 / 160 built modules** with zero empty folders.
+- **Expanded Verified Intelligence:** Added Shannon (1948), Hodgkin-Huxley (1952), NIST PQC FIPS 204/205, and IPCC AR6 to `RESEARCH_PAPERS_DATABASE.csv` and `RESOURCE_DATABASE.csv`.
+- **QA & Governance:** Updated `VALIDATION/run_validation.py` to ignore `.git/` directories cleanly and aligned root `LICENSE` with `OWNERSHIP/LICENSE.md`.
 
-## [1.0.0] — 2026-11-19 (Research-Grade Edition — Initial Release)
-- **Ownership & Governance:** Established proprietary permission-based policy (`OWNERSHIP/`), `CITATION.cff`, `SECURITY.md`, and `CONTRIBUTING.md` for Original Creator & Project Owner **DIVYESH BAMBHANIYA**.
-- **Global Taxonomy:** Defined 160-module taxonomy across 14 interdisciplinary macro-clusters (`MASTER_INDEX.md`, `MODULE_CATALOG.csv`).
-- **Built 70 Core Domain Modules (`MODULES/`):**
-  - 16 Flagship Deep Modules with domain-adapted structures, glossaries, mathematical foundations, executable Python simulations/calculators, and automated unit tests.
-  - 54 Core Domain Modules with Level 1–3 learning paths, 8-point research intelligence, verified references, glossaries, industry directories, and open research problems.
-- **Global Intelligence Databases:** Added verified `RESOURCE_DATABASE.csv`, `INDUSTRY_DATABASE/GLOBAL_INDUSTRY_DIRECTORY.csv`, `RESEARCH_INTELLIGENCE/RESEARCH_PAPERS_DATABASE.csv` (verified DOIs), `RESEARCH_GAPS_DATABASE.csv`, `BENCHMARK_DIRECTORY.csv`, and 5 reusable research templates.
-- **Tooling & QA:** Added offline CLI navigator (`TOOLS/ef_cli.py`) and comprehensive automated validation suite (`VALIDATION/run_validation.py`).
+## [1.0.0] — 2026-11-19 (Initial Research-Grade Release)
+- Established repository infrastructure, proprietary ownership policies, 70 core domain modules (16 Flagship + 54 Core), verified databases, offline CLI, and QA validator.

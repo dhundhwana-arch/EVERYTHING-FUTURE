@@ -1,0 +1,11 @@
+module_id: "126"
+name: "Organs-on-a-Chip Preclinical Systems"
+slug: "ORGANS_ON_A_CHIP"
+cluster: "C08"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

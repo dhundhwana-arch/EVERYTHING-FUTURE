@@ -1,0 +1,11 @@
+module_id: "130"
+name: "Drought-Resilient Crop Genomics"
+slug: "DROUGHT_RESILIENT_CROP_GENOMICS"
+cluster: "C08"
+tier: 3
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"
