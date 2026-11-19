@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+035-ORG-01,NASA,Climate Science,https://www.nasa.gov/,VERIFIED,2026-11-19
+035-ORG-02,USGS,Climate Science,https://www.usgs.gov/,VERIFIED,2026-11-19

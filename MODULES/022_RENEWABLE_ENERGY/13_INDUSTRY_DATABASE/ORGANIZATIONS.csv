@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+022-ORG-01,IRENA,Renewable Energy,https://www.irena.org/,VERIFIED,2026-11-19
+022-ORG-02,IRENA Data,Renewable Energy,https://www.irena.org/Data,VERIFIED,2026-11-19
+022-ORG-03,Our World in Data — Renewable Energy,Renewable Energy,https://ourworldindata.org/renewable-energy,VERIFIED,2026-11-19

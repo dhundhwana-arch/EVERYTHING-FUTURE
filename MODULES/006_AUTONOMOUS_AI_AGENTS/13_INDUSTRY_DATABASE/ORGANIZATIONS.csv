@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+006-ORG-01,Attention Is All You Need,Autonomous AI Agents,https://arxiv.org/abs/1706.03762,VERIFIED,2026-11-19
+006-ORG-02,NIST,Autonomous AI Agents,https://www.nist.gov/,VERIFIED,2026-11-19

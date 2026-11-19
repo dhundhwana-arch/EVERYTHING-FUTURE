@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+056-ORG-01,RISC-V International,Computer Science,https://riscv.org/,VERIFIED,2026-11-19
+056-ORG-02,CERN,Computer Science,https://home.cern/,VERIFIED,2026-11-19

@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+068-ORG-01,CERN,Unsolved Scientific Problems,https://home.cern/,VERIFIED,2026-11-19
+068-ORG-02,NASA,Unsolved Scientific Problems,https://www.nasa.gov/,VERIFIED,2026-11-19
+068-ORG-03,Max Planck Society,Unsolved Scientific Problems,https://www.mpg.de/india,VERIFIED,2026-11-19

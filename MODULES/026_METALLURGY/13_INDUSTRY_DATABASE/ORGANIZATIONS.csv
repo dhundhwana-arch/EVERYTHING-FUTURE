@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+026-ORG-01,NIST,Metallurgy,https://www.nist.gov/,VERIFIED,2026-11-19
+026-ORG-02,CSIR India,Metallurgy,https://www.csir.res.in/sites/default/files/2023-06/Complete%202003-2004%281%29_0.pdf,VERIFIED,2026-11-19

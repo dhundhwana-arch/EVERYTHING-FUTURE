@@ -1,0 +1,7 @@
+benchmark_id,name,domain_id,metric,maintainer_or_source,official_url,verification_status,last_verified
+BMK-001,CASP (Critical Assessment of Protein Structure Prediction),029,GDT_TS / lDDT-Calpha,Protein Structure Prediction Center / PubMed Ref,https://pubmed.ncbi.nlm.nih.gov/34265844/,VERIFIED,2026-11-19
+BMK-002,ImageNet ILSVRC Classification,005,Top-1 / Top-5 Error Rate,CVPR / arXiv:1512.03385,https://arxiv.org/abs/1512.03385,VERIFIED,2026-11-19
+BMK-003,WMT14 Machine Translation (EN-DE / EN-FR),001,BLEU Score,NeurIPS / arXiv:1706.03762,https://arxiv.org/abs/1706.03762,VERIFIED,2026-11-19
+BMK-004,Surface Code Logical Error Suppression Factor (Lambda),013,Error per Cycle & Lambda,Google Quantum AI / Nature 2025,https://pubmed.ncbi.nlm.nih.gov/39653125/,VERIFIED,2026-11-19
+BMK-005,ICF Target Gain (G_target),021,Fusion Yield / Laser Input Energy,LLNL NIF / PRL 2024,https://link.aps.org/doi/10.1103/PhysRevLett.132.065102,VERIFIED,2026-11-19
+BMK-006,Hugging Face Open Datasets & Evaluation Tasks,001,Task-specific Accuracy / F1 / Pass@k,Hugging Face,https://huggingface.co/datasets,VERIFIED,2026-11-19

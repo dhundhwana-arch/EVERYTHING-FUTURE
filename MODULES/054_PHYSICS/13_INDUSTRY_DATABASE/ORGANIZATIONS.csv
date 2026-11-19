@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+054-ORG-01,CERN,Physics,https://home.cern/,VERIFIED,2026-11-19
+054-ORG-02,NIST,Physics,https://www.nist.gov/,VERIFIED,2026-11-19

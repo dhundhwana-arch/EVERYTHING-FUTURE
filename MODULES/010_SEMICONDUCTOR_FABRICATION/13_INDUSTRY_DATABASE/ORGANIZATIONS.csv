@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+010-ORG-01,TSMC,Semiconductor Fabrication,https://www.tsmc.com/english,VERIFIED,2026-11-19
+010-ORG-02,Applied Materials,Semiconductor Fabrication,https://www.appliedmaterials.com/us/en.html,VERIFIED,2026-11-19
+010-ORG-03,Lam Research,Semiconductor Fabrication,https://www.lamresearch.com/,VERIFIED,2026-11-19

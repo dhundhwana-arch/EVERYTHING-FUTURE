@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+070-ORG-01,WIPO,Emerging Technologies,https://www.wipo.int/,VERIFIED,2026-11-19
+070-ORG-02,IMEC,Emerging Technologies,https://www.imec-int.com/en,VERIFIED,2026-11-19
+070-ORG-03,NIST,Emerging Technologies,https://www.nist.gov/,VERIFIED,2026-11-19

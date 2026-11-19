@@ -1,0 +1,5 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+069-ORG-01,OpenAlex on Zenodo,Global Research Databases,https://zenodo.org/records/6936227,VERIFIED,2026-11-19
+069-ORG-02,arXiv,Global Research Databases,https://arxiv.org/abs/1706.03762,VERIFIED,2026-11-19
+069-ORG-03,PubMed / NCBI,Global Research Databases,https://pubmed.ncbi.nlm.nih.gov/34265844/,VERIFIED,2026-11-19
+069-ORG-04,Hugging Face Datasets,Global Research Databases,https://huggingface.co/datasets,VERIFIED,2026-11-19

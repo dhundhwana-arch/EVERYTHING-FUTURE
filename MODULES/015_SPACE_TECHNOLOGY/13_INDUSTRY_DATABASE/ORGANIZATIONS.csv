@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+015-ORG-01,NASA,Space Technology,https://www.nasa.gov/,VERIFIED,2026-11-19
+015-ORG-02,UNOOSA World Space Agencies Registry,Space Technology,https://www.unoosa.org/oosa/en/ourwork/space-agencies.html,VERIFIED,2026-11-19
+015-ORG-03,CNSA,Space Technology,https://www.cnsa.gov.cn/english/,VERIFIED,2026-11-19

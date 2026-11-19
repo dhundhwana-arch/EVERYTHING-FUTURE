@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+009-ORG-01,RISC-V International,Semiconductor Design,https://riscv.org/,VERIFIED,2026-11-19
+009-ORG-02,Synopsys RISC-V Solutions,Semiconductor Design,https://www.synopsys.com/solutions/risc-v.html,VERIFIED,2026-11-19
+009-ORG-03,IMEC,Semiconductor Design,https://www.imec-int.com/en,VERIFIED,2026-11-19

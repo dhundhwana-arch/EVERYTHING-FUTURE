@@ -1,0 +1,5 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+063-ORG-01,IEEE Standards Association,International Standards,https://standards.ieee.org/,VERIFIED,2026-11-19
+063-ORG-02,NIST,International Standards,https://www.nist.gov/,VERIFIED,2026-11-19
+063-ORG-03,CERN Standards Library,International Standards,https://library.cern/standards/,VERIFIED,2026-11-19
+063-ORG-04,BIS India,International Standards,https://www.bis.gov.in/india-gov/?lang=gu,VERIFIED,2026-11-19

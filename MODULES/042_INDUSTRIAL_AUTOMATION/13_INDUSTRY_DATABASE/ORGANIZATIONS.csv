@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+042-ORG-01,ABB Robotics,Industrial Automation,https://www.abb.com/global/en/areas/robotics,VERIFIED,2026-11-19
+042-ORG-02,FANUC,Industrial Automation,https://www.fanucamerica.com/solutions/physical-ai/ros-2-driver,VERIFIED,2026-11-19
+042-ORG-03,NIST,Industrial Automation,https://www.nist.gov/,VERIFIED,2026-11-19

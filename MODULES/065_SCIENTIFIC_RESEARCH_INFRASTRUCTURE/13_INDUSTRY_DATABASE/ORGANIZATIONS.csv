@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+065-ORG-01,CERN,Scientific Research Infrastructure,https://home.cern/,VERIFIED,2026-11-19
+065-ORG-02,OpenAlex on Zenodo,Scientific Research Infrastructure,https://zenodo.org/records/6936227,VERIFIED,2026-11-19
+065-ORG-03,Max Planck Society,Scientific Research Infrastructure,https://www.mpg.de/india,VERIFIED,2026-11-19

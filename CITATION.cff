@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference this repository with written authorization, please cite it as below."
+title: "EVERYTHING FUTURE: Global Knowledge, Science, Technology & Research MegaPack (Research-Grade Edition)"
+version: "1.0.0"
+date-released: "2026-11-19"
+authors:
+  - family-names: "Bambhaniya"
+    given-names: "Divyesh"
+license: "NOASSERTION"
+keywords:
+  - "global knowledge infrastructure"
+  - "artificial intelligence"
+  - "semiconductors"
+  - "quantum computing"
+  - "space technology"
+  - "fusion energy"
+  - "scientific research"

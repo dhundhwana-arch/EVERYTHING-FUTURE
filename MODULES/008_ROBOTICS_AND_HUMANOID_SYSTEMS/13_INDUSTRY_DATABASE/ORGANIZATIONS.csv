@@ -1,0 +1,5 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+008-ORG-01,ROS 2 Documentation,Robotics and Humanoid Systems,https://docs.ros.org/,VERIFIED,2026-11-19
+008-ORG-02,ABB Robotics,Robotics and Humanoid Systems,https://www.abb.com/global/en/areas/robotics,VERIFIED,2026-11-19
+008-ORG-03,Boston Dynamics,Robotics and Humanoid Systems,https://bostondynamics.com/,VERIFIED,2026-11-19
+008-ORG-04,FANUC ROS 2 Driver,Robotics and Humanoid Systems,https://www.fanuc.co.jp/en/product/robot/academia/ros_driver.html,VERIFIED,2026-11-19

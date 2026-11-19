@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+005-ORG-01,"Deep Residual Learning (He et al., 2016)",Deep Learning,https://arxiv.org/abs/1512.03385,VERIFIED,2026-11-19
+005-ORG-02,PyTorch,Deep Learning,https://pytorch.org/,VERIFIED,2026-11-19

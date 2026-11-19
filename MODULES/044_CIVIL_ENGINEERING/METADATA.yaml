@@ -1,0 +1,11 @@
+module_id: "044"
+name: "Civil Engineering"
+slug: "CIVIL_ENGINEERING"
+cluster: "C10"
+tier: 2
+verification_status: "PARTIALLY_VERIFIED"
+last_verified: "2026-11-19"
+has_executable_code: false
+offline_usable: true
+owner: "DIVYESH BAMBHANIYA"
+license_policy: "Proprietary Permission-Based (See OWNERSHIP/LICENSE.md)"

@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+001-ORG-01,"Attention Is All You Need (Vaswani et al., 2017)",Artificial Intelligence,https://arxiv.org/abs/1706.03762,VERIFIED,2026-11-19
+001-ORG-02,Hugging Face Open Datasets,Artificial Intelligence,https://huggingface.co/datasets,VERIFIED,2026-11-19
+001-ORG-03,PyTorch Foundation,Artificial Intelligence,https://pytorch.org/,VERIFIED,2026-11-19

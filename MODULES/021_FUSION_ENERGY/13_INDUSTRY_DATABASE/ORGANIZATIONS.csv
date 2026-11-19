@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+021-ORG-01,"NIF Target Gain > 1 (Abu-Shawareb et al., PRL 2024)",Fusion Energy,https://link.aps.org/doi/10.1103/PhysRevLett.132.065102,VERIFIED,2026-11-19
+021-ORG-02,ITER Organization,Fusion Energy,https://www.iter.org/about/iter-organization,VERIFIED,2026-11-19
+021-ORG-03,IAEA,Fusion Energy,https://nucleus.iaea.org/Wiser/,VERIFIED,2026-11-19

@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+011-ORG-01,ASML,EUV Lithography,https://www.asml.com/en,VERIFIED,2026-11-19
+011-ORG-02,IMEC 2D Transistor & EUV Collaboration,EUV Lithography,https://www.imec-int.com/en/press/asml-tsmc-and-imec-bring-industry-ready-2d-material-transistors-closer-breakthrough-300mm,VERIFIED,2026-11-19
+011-ORG-03,NVIDIA-ASML-TSMC-Synopsys Computational Lithography,EUV Lithography,https://nvidianews.nvidia.com/news/nvidia-asml-tsmc-and-synopsys-set-foundation-for-next-generation-chip-manufacturing,VERIFIED,2026-11-19

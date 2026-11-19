@@ -1,0 +1,4 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+013-ORG-01,Google Quantum AI Surface Code (Nature 2025),Quantum Computing,https://pubmed.ncbi.nlm.nih.gov/39653125/,VERIFIED,2026-11-19
+013-ORG-02,"Quantum Supremacy (Arute et al., 2019)",Quantum Computing,https://pubmed.ncbi.nlm.nih.gov/31645734/,VERIFIED,2026-11-19
+013-ORG-03,IBM Quantum / Qiskit,Quantum Computing,https://www.ibm.com/quantum/qiskit,VERIFIED,2026-11-19

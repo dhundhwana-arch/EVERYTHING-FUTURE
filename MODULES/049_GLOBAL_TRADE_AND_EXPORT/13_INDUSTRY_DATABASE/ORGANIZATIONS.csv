@@ -1,0 +1,5 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+049-ORG-01,WTO Home,Global Trade and Export,https://www.wto.org/,VERIFIED,2026-11-19
+049-ORG-02,WTO Information Technology Agreement,Global Trade and Export,https://www.wto.org/english/tratop_e/inftec_e/inftec_e.htm,VERIFIED,2026-11-19
+049-ORG-03,DGFT India Export-Import Guide,Global Trade and Export,https://www.dgft.gov.in/CP/?opt=export-import-guide,VERIFIED,2026-11-19
+049-ORG-04,DGFT ITC-HS Codes,Global Trade and Export,https://www.dgft.gov.in/CP/?opt=itchs,VERIFIED,2026-11-19

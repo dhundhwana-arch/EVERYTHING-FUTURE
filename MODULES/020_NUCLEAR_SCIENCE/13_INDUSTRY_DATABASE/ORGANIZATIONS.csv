@@ -1,0 +1,3 @@
+entry_id,organization_or_resource,domain,verified_url,verification_status,last_verified
+020-ORG-01,IAEA WISER,Nuclear Science,https://nucleus.iaea.org/Wiser/,VERIFIED,2026-11-19
+020-ORG-02,CERN,Nuclear Science,https://home.cern/,VERIFIED,2026-11-19
